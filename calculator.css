@@ -1,0 +1,24 @@
+.title{
+    color:green;
+    width:208px;
+    text-align: center;
+    font-size: large;
+    border: 2px solid black;
+    margin-bottom:10px;
+}
+
+input[type="text"]{
+    background-color: white;
+    color: black;
+    width:100%;
+    border:2px solid black;
+}
+input[type="button"]{
+background-color:reen;
+color:black;
+width:100%;
+border:2px solid black;
+}
+#tab{
+border-collapse: collapse;
+}
